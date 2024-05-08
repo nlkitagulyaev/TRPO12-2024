@@ -60,7 +60,6 @@ namespace lab2
             this.пара = пара;
             this.вид_занятия = вид_занятия;
         }
-
 }
 
     /// <summary>
